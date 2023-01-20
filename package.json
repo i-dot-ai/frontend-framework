@@ -3,6 +3,14 @@
   "version": "0.1.6",
   "bin": "./bin/cli.js",
   "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/i-dot-ai/frontend-starterkit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-dot-ai/frontend-starterkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/i-dot-ai/frontend-starterkit/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
